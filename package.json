@@ -1,0 +1,20 @@
+{
+  "name": "upwork-job-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Upwork Job Scraper: Scrape public Upwork job listings by keyword: title, budget, hourly rate, skills, client country, spend and posted time. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "upwork"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}

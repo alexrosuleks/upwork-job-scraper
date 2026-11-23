@@ -1,0 +1,10 @@
+{
+  "query": "web scraping",
+  "maxResults": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
